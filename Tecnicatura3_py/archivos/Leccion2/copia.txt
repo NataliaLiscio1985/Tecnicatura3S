@@ -1,0 +1,13 @@
+Programamos con diferentes tipos de archivos, ahora en txr. 
+Los acentos son importantes para las palabras
+como por ejemplo: acción, ejecución y producción
+Los significados de las letras: 
+r= read
+a=append
+w=write
+x=crea, 
+t= texto
+b=binarios
+w+=escribir y leer
+r+=leer y escribir, Saludos a todos los alumnos de la tecnicatura
+Con esto terminamos
